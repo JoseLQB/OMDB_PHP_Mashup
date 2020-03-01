@@ -1,0 +1,14 @@
+section{
+    background-color: beige;
+}
+
+img{
+    border-radius:1%;
+}
+.container{
+    background-color: beige;
+}
+section{
+    background-image: url("images/fondo.jpg");
+
+}
