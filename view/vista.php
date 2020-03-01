@@ -1,4 +1,4 @@
-<?php require_once "Funciones.php"; ?>
+<?php require_once "../model/Funciones.php"; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
